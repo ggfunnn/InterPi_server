@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+interpi_server/config.ini
+interpi_server/requirements.txt
+run.py
